@@ -1,14 +1,3 @@
-123321
-456654
-<<<<<<< HEAD
-<<<<<<< HEAD
-101010101010
-=======
-789987
->>>>>>> d9660e8eaa55f7ed3c58058a6b2c6dc9f5ca3b8a
-
-
-啦取后直接编辑在提交
-=======
-789987
->>>>>>> refs/remotes/origin/master
+重新学习git
+git is  a  version system
+git is  a free software
