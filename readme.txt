@@ -5,6 +5,6 @@ git is  a free software
 第一次修改编辑readme
 
 
-creating a new branch is quick AND simple
+creating a new branch is quick AND simple AND merge
 
 
