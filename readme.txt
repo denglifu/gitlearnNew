@@ -7,4 +7,4 @@ git is  a free software
 
 creating a new branch is quick AND simple AND merge
 
-
+in  gitdosWindow  xiugai readme.txt
