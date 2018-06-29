@@ -1,10 +1,12 @@
-重新学习git
+閲嶆柊瀛︿範git
 git is  a  version system
 git is  a free software
 
-第一次修改编辑readme
+绗竴娆′慨鏀圭紪杈憆eadme
 
 
 creating a new branch is quick AND simple AND merge
+
+in githua xiu gai readme.txt
 
 
